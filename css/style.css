@@ -1,0 +1,15 @@
+body {
+  background-color: #101035;
+}
+h1 {
+  color: white;
+}
+header {
+  font-size: 18px;
+}
+.description {
+  color: white;
+  font-size: 20px;
+  text-align: justify;
+  text-indent: 45px;
+}
