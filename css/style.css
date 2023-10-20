@@ -1,11 +1,14 @@
-body {
-  background-color: #101035;
-}
-h1 {
-  color: white;
+@font-face {
+  font-family: FallingSky;
+  src: url(../fonts/FallingSkyOblique-n5XV.otf);
 }
 header {
   font-size: 18px;
+}
+body {
+  background-color: #101035;
+  color: white;
+  font-family: FallingSky, sans-serif;
 }
 .description {
   color: white;
